@@ -1,0 +1,3 @@
+include ':UploadFile'
+include ':app'
+rootProject.name = "UploadFileExample"
